@@ -1,7 +1,7 @@
 # Olá, sou o Jerah Fonseca Carvalho 👋
 
 ### 🏛️ Professor de Filosofia & Estudante de Análise e Desenvolvimento de Sistemas
-Acredito que a tecnologia é uma extensão do pensamento humano. Minha base acadêmica em **Filosofia** guia minha jornada no desenvolvimento de software, buscando sempre a lógica, a ética e a clareza estrutural.
+Acredito que a tecnologia é uma extensão do pensamento humano. Minha base acadêmica em **Filosofia** guia minha jornada no desenvolvimento de software, buscando sempre a lógica, a ética e o pensamento crítico.
 
 ---
 
@@ -43,11 +43,11 @@ Aqui você encontra minha trajetória acadêmica e profissional:
 
 ### ☕ No tempo livre...
 * Aprecio um bom café suave feito na **Moka**.
-* Explorando os mapas e a história da **Terra Média** (Tolkien).
+* Assistindo **filmes** ou lendo um **livro**.
 * Refletindo sobre como a lógica clássica se aplica aos algoritmos modernos.
 
 ---
 
 <p align="center">
-  *"A vida não examinada não vale a pena ser vivida."* – Sócrates
+  * "A vida não examinada não vale a pena ser vivida."** – Sócrates
 </p>
