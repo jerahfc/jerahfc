@@ -49,5 +49,5 @@ Aqui você encontra minha trajetória acadêmica e profissional:
 ---
 
 <p align="center">
-  *"A vida não examinada não vale a pena ser vivida." – Sócrates*
+  <i>"*A vida não examinada não vale a pena ser vivida."* – Sócrates</i>
 </p>
