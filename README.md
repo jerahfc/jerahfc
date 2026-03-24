@@ -1,6 +1,6 @@
 # Olá, sou o Jerah Fonseca Carvalho 👋
 
-### 🏛️ Filósofo & Pesquisador em Tecnologia
+### 🏛️ Professor de Filosofia & Estudante de Análise e Desenvolvimento de Sistemas
 Acredito que a tecnologia é uma extensão do pensamento humano. Minha base acadêmica em **Filosofia** guia minha jornada no desenvolvimento de software, buscando sempre a lógica, a ética e a clareza estrutural.
 
 ---
