@@ -44,7 +44,7 @@ Aqui você encontra minha trajetória acadêmica e profissional:
 ### ☕ No tempo livre...
 * Aprecio um bom café suave feito na **Moka**.
 * Assistindo **filmes** ou lendo um **livro**.
-* Refletindo sobre como a lógica clássica se aplica aos algoritmos modernos.
+* Refletindo sobre a vida.
 
 ---
 
