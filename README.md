@@ -112,6 +112,16 @@ Desenvolvido do zero, do planejamento ao deploy em produção.
 
 ---
 
+### 🌍 Idiomas
+
+| Idioma | Nível |
+|---|---|
+| 🇧🇷 Português | Nativo |
+| 🇺🇸 Inglês | Básico |
+| 🇪🇸 Espanhol | Básico |
+
+---
+
 <p align="center">
   <i>"Life rewards brains."</i>
 </p>
