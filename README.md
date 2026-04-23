@@ -2,7 +2,7 @@
 
 # Olá, sou o Jerah Fonseca Carvalho 👋
 
-### Estudante de Análise e Desenvolvimento de Sistemas · Mestre pela UNESP · Criador do [O Eremita](https://oeremita.com)
+### Estudante de Análise e Desenvolvimento de Sistemas
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jerah-fonseca-carvalho-319394398/" target="_blank">
