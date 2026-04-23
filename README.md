@@ -25,7 +25,7 @@
 
 ### 🧩 Sobre mim
 
-Profissional em transição para TI, cursando **Análise e Desenvolvimento de Sistemas** na FATEC Americana. Com Mestrado em Educação pela UNESP e base sólida em lógica e pensamento crítico, trago uma perspectiva diferenciada para o desenvolvimento de software — da arquitetura do problema à entrega da solução.
+Profissional em transição para TI, cursando **ADS** na FATEC Americana. Com Mestrado em Educação pela UNESP e base sólida em lógica, trago uma perspectiva diferenciada para o desenvolvimento de software — da arquitetura do problema à entrega da solução.
 
 - 🎓 **ADS** @ FATEC Americana *(2026 – presente)*
 - 🏛️ **Mestrado em Educação** @ UNESP Rio Claro *(2023 – 2026)*
