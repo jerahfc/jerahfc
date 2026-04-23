@@ -2,7 +2,7 @@
 
 # Olá, sou o Jerah Fonseca Carvalho 👋
 
-### Estudante de Análise e Desenvolvimento de Sistemas
+### Cursando Análise e Desenvolvimento de Sistemas
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jerah-fonseca-carvalho-319394398/" target="_blank">
@@ -25,11 +25,12 @@
 
 ### 🧩 Sobre mim
 
-Profissional em transição para TI, cursando **ADS** na FATEC Americana. Com Mestrado em Educação pela UNESP e formação inicial em Filosofia, tenho uma base sólida em lógica, trago uma perspectiva diferenciada para o desenvolvimento de software — da arquitetura do problema à entrega da solução.
+Profissional em transição para TI, cursando **ADS** na FATEC Americana. Com Mestrado em Educação pela UNESP e formação inicial em Filosofia pela PUC, tenho uma base sólida em lógica, trago uma perspectiva diferenciada para o desenvolvimento de software — da arquitetura do problema à entrega da solução.
 
 - 🎓 **ADS** @ FATEC Americana *(2026 – presente)*
 - 🏛️ **Mestrado em Educação** @ UNESP Rio Claro *(2023 – 2026)*
-- 🚀 Desenvolvedor do portal filosófico **[oeremita.com](https://oeremita.com)** — do zero ao deploy em produção
+- 🎓 **Filosofia** @ PUC Campinas *(2013 – 2016)*
+- 🚀 Desenvolvedor do portal de Filosofia **[oeremita.com](https://oeremita.com)** — do zero ao deploy em produção
 - 🔍 Interesse em **desenvolvimento web**, **Python**, **infraestrutura** e **IA aplicada**
 - 📍 Limeira, São Paulo — Brasil
 
