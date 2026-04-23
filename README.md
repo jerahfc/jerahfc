@@ -97,7 +97,7 @@ Desenvolvido do zero, do planejamento ao deploy em produção.
 
 ---
 
-### 🎓 Certificações
+### 🏆 Certificações
 
 | Certificado | Instituição |
 |---|---|
@@ -113,5 +113,5 @@ Desenvolvido do zero, do planejamento ao deploy em produção.
 ---
 
 <p align="center">
-  <i>"A vida não examinada não vale a pena ser vivida." – Sócrates</i>
+  <i>"Life rewards brains."</i>
 </p>
