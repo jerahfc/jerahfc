@@ -74,7 +74,7 @@ Profissional em transição para TI, cursando **ADS** na FATEC Americana. Com Me
 
 ### 📊 GitHub Stats
 
-<<div align="center">
+<div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jerahfc&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerahfc&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=repositorio-de-estudos" />
 </div>
@@ -109,14 +109,6 @@ Desenvolvido do zero, do planejamento ao deploy em produção.
 | BluePex Cybersecurity Framework | BluePex® |
 | Certificação em Redes — BluePex Essentials | BluePex® |
 | Manutenção de Micro e Implantação de Rede Local | SENAC Limeira |
-
----
-
-### ☕ No tempo livre...
-
-- Aprecio um bom café suave feito na **Moka**.
-- Assistindo **filmes** ou lendo um **livro**.
-- Refletindo sobre a vida.
 
 ---
 
