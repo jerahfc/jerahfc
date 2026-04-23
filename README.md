@@ -92,10 +92,9 @@ Profissional em transição para TI, cursando **Análise e Desenvolvimento de Si
 
 Desenvolvido do zero, do planejamento ao deploy em produção.
 
-- **Stack:** HTML · CSS · JavaScript · Flask · Python
-- **Infra:** HostGator shared hosting, configuração manual de ambiente, `.env` e Passenger WSGI
-- **Desafios reais resolvidos:** estrutura de arquivos no servidor, variáveis de ambiente, roteamento Flask e deploy de aplicação Python em hospedagem compartilhada
-- **Repositório:** [github.com/jerahfc/biblio-extract](https://github.com/jerahfc/biblio-extract)
+- **Stack:** HTML · CSS · JavaScript · Python
+- **Infra:** HostGator shared hosting, configuração manual de ambiente
+- **Desafios reais resolvidos:** estrutura de arquivos no servidor, variáveis de ambiente, hospedagem compartilhada
 
 ---
 
